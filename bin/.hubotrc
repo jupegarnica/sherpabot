@@ -10,7 +10,7 @@ export REDISTOGO_URL="redis://localhost:6379"
 export HUBOT_AUTH_ADMIN="1"
 
 export HUBOT_ADAPTER="twitter"
-export HUBOT_NAME="sherpaSiri"
+export HUBOT_NAME="sherpaBot"
 export HUBOT_PATH="/home/jupegarnica/sherpabot"
 
 #---------------- END HUBOT CONFIG --------------------------------

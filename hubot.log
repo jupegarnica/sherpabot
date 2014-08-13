@@ -1,0 +1,24 @@
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Wed Aug 13 2014 12:36:28 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 12:36:29 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[SyntaxError: Unexpected token a]
+[SyntaxError: Unexpected token o]
+received @sherpaBot pero vas o no? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Pero no que.
+Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Wed Aug 13 2014 12:39:31 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 12:39:31 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received @sherpaBot  Ya tenemos log from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Ya se, sos un robot o un humano?
+Status 200
+received @sherpaBot soy un robot.  Tu que eres? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text No te creo.
+Status 200
+received @sherpaBot eres un robot? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Yo no.
+Status 200
