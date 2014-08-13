@@ -5,6 +5,6 @@ export HUBOT_TWITTER_TOKEN_SECRET="ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB
 export HUBOT_WOLFRAM_APPID="QTL64Q-4JKEREJVTT"
 export REDISTOGO_URL="redis://localhost:6379"
 while true; do
-bin/hubot -a twitter -n sherpaSiri
+bin/hubot -a twitter -n sherpaBot
 done
 exit 0

@@ -22,3 +22,67 @@ received @sherpaBot eres un robot? from jupegarnica
 Sending strings to user: undefined
 send twitt to jupegarnica with text Yo no.
 Status 200
+received @sherpaBot cuantos estáis escuchando? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Cuantos a&ntilde;os tienes?
+Status 200
+received @sherpaBot I am 31 years old from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text When were you created?
+Status 200
+received @sherpaBot I am not created.  I was born from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text How old are you?
+Status 200
+received @sherpaBot I told you 31 years old.  How old are you? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text No you didn't. Tell me how old you are.
+Status 200
+received @sherpaBot how old are you? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text I'm 14. I hope you aren't one of those internet predators.
+Status 200
+received @sherpaBot Chess me from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://webchess.freehostia.com/diag/chessdiag.php?fen=rnbqkbnr%2Fpppppppp%2F8%2F8%2F8%2F8%2FPPPPPPPP%2FRNBQKBNR%20w&size=large&coord=yes&cap=yes&stm=yes&fb=no&theme=classic&format=auto&color1=E3CEAA&color2=635147&color3=000000&.png
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text Do you like chess?
+Status 200
+received @sherpaBot Chess move e4 from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://webchess.freehostia.com/diag/chessdiag.php?fen=rnbqkbnr%2Fpppppppp%2F8%2F8%2F4P3%2F8%2FPPPP1PPP%2FRNBQKBNR%20b&size=large&coord=yes&cap=yes&stm=yes&fb=no&theme=classic&format=auto&color1=E3CEAA&color2=635147&color3=000000&.png
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text I want to play chess with you.
+Status 200
+received @sherpaBot Chess status from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://webchess.freehostia.com/diag/chessdiag.php?fen=rnbqkbnr%2Fpppppppp%2F8%2F8%2F4P3%2F8%2FPPPP1PPP%2FRNBQKBNR%20b&size=large&coord=yes&cap=yes&stm=yes&fb=no&theme=classic&format=auto&color1=E3CEAA&color2=635147&color3=000000&.png
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Sending strings to user: undefined
+send twitt to jupegarnica with text How about a good joke?
+Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Wed Aug 13 2014 13:33:18 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 13:33:19 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[SyntaxError: Unexpected token :]
+received @sherpaBot card me from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text BILLY MAYS HERE FOR :zap:
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text Cool. *Hug*.
+Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Wed Aug 13 2014 13:43:15 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 13:43:16 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received @sherpaBot card me against humanity @helena_2501 @pakonekone from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Pterodactyl eggs.
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text LStephen is not a girl name. Call me Anna.
+Status 200
+received @jupegarnica @sherpaBot @pakonekone No entiendo nada xD from helena_2501
