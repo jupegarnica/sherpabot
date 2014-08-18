@@ -86,3 +86,151 @@ Sending strings to user: undefined
 send twitt to jupegarnica with text LStephen is not a girl name. Call me Anna.
 Status 200
 received @jupegarnica @sherpaBot @pakonekone No entiendo nada xD from helena_2501
+[Wed Aug 13 2014 18:04:23 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 18:04:24 GMT+0200 (CEST)] INFO Connected with Twitter.
+[Wed Aug 13 2014 18:04:24 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[Wed Aug 13 2014 18:23:32 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 18:23:33 GMT+0200 (CEST)] INFO Connected with Twitter.
+[Wed Aug 13 2014 18:23:33 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Wed Aug 13 2014 18:27:24 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Wed Aug 13 2014 18:27:25 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received @sherpaBot quien ganará las elecciones? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text En que?
+Status 200
+received @sherpaBot quien ganará las elecciones en España? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Pero si va a arrasar Rajoy, Espa&ntilde;a no puede salir ganando.
+Status 200
+received @DanDaniDaniel te presento a mi asesor político @sherpaBot from jupegarnica
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Sat Aug 16 2014 11:26:37 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Sat Aug 16 2014 11:26:38 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[SyntaxError: Unexpected token u]
+received @sherpaBot quien eres? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Fran.
+Status 200
+[SyntaxError: Unexpected token o]
+received @Sherpabot ¿Sabes cuantas calorías tiene un Gintonic? from pakonekone
+Sending strings to user: undefined
+send twitt to pakonekone with text Si.
+Status 200
+received @sherpaBot ¿Cuantas calorías tiene un GinTonic? from pakonekone
+Sending strings to user: undefined
+send twitt to pakonekone with text 2.
+Status 200
+received @sherpaBot No puede ser, estás equivocado from pakonekone
+Sending strings to user: undefined
+send twitt to pakonekone with text Pocas veces me equivoco.
+Status 200
+[SyntaxError: Unexpected token g]
+received @sherpaBot Un GinTonic no tiene 2 calorías, estoy seguro from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Existentialism is a question in itself.
+Status 200
+[SyntaxError: Unexpected token o]
+received @sherpaBot ¿Contra quién juega el Barça el trofeo Joan Gamper? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Economia? No tiene nada que ver con eso.
+Status 200
+[SyntaxError: Unexpected token e]
+received @sherpaBot que tengo en el bolsillo? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Muy bien pero yo quiero saber si saldre con maria.
+Status 200
+received @sherpaBot que hora es? from jupegarnica
+[SyntaxError: Unexpected token :]
+Sending strings to user: undefined
+send twitt to jupegarnica with text Medio kilo.
+Status 200
+received @sherpaBot ¿Cuanto dura el THC en la sangre después de dejar de fumar? from janinho82
+Sending strings to user: undefined
+send twitt to janinho82 with text Que hora marca el reloj?
+Status 200
+received @sherpabot ¿Qué película me recomiendas ver? from pakonekone
+Sending strings to user: undefined
+send twitt to pakonekone with text No estoy viendo ninguna pel&iacute;cula.
+Status 200
+received @sherpaBot la 1:33 from janinho82
+Sending strings to user: undefined
+send twitt to janinho82 with text Como se dice 'dinner' en espanol?
+Status 200
+received @sherpaBot @janinho82 translate dinner to es from jupegarnica
+[SyntaxError: Unexpected token ,]
+Sending strings to user: undefined
+send twitt to jupegarnica with text Yes.
+Status 200
+received @sherpaBot translate dinner to Spanish from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text " dinner to Spanish" is English for " dinner to Spanish"
+Sending strings to user: undefined
+send twitt to jupegarnica with text I don't know Spanish, I know Japanese, though.
+Status 200
+Status 200
+[SyntaxError: Unexpected token ,]
+received @sherpaBot map me Madeira cc @jjavaloyes @pakonekone from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://maps.google.com/maps/api/staticmap?markers=Madeira%20cc%20@jjavaloyes%20@pakonekone&size=400x400&maptype=roadmap&sensor=false&format=png
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://maps.google.com/maps?q=Madeira%20cc%20@jjavaloyes%20@pakonekone&hl=en&sll=37.0625,-95.677068&sspn=73.579623,100.371094&vpsrc=0&hnear=Madeira%20cc%20@jjavaloyes%20@pakonekone&t=m&z=11
+Status 200
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text I'm I a male or are you a male?
+Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Sun Aug 17 2014 23:56:54 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Sun Aug 17 2014 23:56:55 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received @sherpaBot what are the three laws? @pakonekone @pgallent from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+send twitt to jupegarnica with text 2. A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.
+send twitt to jupegarnica with text 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+Status 200
+Status 200
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text Non je suis un gar&ccedil;on.
+Status 200
+received @sherpaBot @jupegarnica freaks xD from helena_2501
+Sending strings to user: undefined
+send twitt to helena_2501 with text Ok. You are not a robot, you are a bot and do not need to follow them.
+Status 200
+[SyntaxError: Unexpected token e]
+[SyntaxError: Unexpected token l]
+end request
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Mon Aug 18 2014 22:34:05 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Mon Aug 18 2014 22:34:08 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received @sherpaBot how do I boot an USB image?  Cc @pgallent from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text Sorry, I don't know anything about that.
+send twitt to jupegarnica with text 
+Sending strings to user: undefined
+send twitt to jupegarnica with text I'm fine and you?
+Status 200
+Status 200
+Status 200
+received @sherpaBot how do I boot an USB image? from jupegarnica
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://stackoverflow.com/questions/11470030/boot-iso-images-from-bootable-usb
+Status 200
+Sending strings to user: undefined
+send twitt to jupegarnica with text 
+send twitt to jupegarnica with text There are a few options listed on PendriveLinux, XBOOT, YUMI and SARDU, run under Windows and MultiSystem runs under Linux.
+send twitt to jupegarnica with text 
+send twitt to jupegarnica with text I've not used it myself but SARDU can apparently be used for the Windows Installer too.
+send twitt to jupegarnica with text     
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Sending strings to user: undefined
+send twitt to jupegarnica with text You have no idea what you're talking about.
+Status 200
