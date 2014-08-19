@@ -407,3 +407,59 @@ received sherpaBot  Sorry, it's true you are not a bot. from pakonekone cc @jupe
 Sending strings to user: undefined
 send twitt to pakonekone with text I do. @jupegarnica
 Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 03:43:51 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 03:44:08 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[SyntaxError: Unexpected token E]
+end request
+[Tue Aug 19 2014 03:49:21 GMT+0200 (CEST)] ERROR [Error: Redis connection to localhost:6379 failed - connect ECONNREFUSED]
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 03:51:09 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received  sherpaBot deja de jugar con la gente por favor from jupegarnica cc @pakonekone
+received sherpaBot   bienvenido from jupegarnica cc @pakonekone
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text What does that mean, exactly? @pakonekone
+Status 200
+received sherpaBot  just crap from jupegarnica cc @pakonekone
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text I know, right? Lol. @pakonekone
+Status 200
+[SyntaxError: Unexpected token p]
+received sherpaBot  Wolfram next solar Eclipse? from jupegarnica cc @pakonekone
+[ 'sherpaBot  Wolfram next solar Eclipse?',
+  'Wolfram',
+  'next solar Eclipse?',
+  index: 0,
+  input: 'sherpaBot  Wolfram next solar Eclipse?' ]
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text total @pakonekone
+Status 200
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text Who's that? @pakonekone
+Status 200
+received sherpaBot  Wolfram when is the next total solar Eclipse? from jupegarnica cc @pakonekone
+[ 'sherpaBot  Wolfram when is the next total solar Eclipse?',
+  'Wolfram',
+  'when is the next total solar Eclipse?',
+  index: 0,
+  input: 'sherpaBot  Wolfram when is the next total solar Eclipse?' ]
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text So is Misha Collins. @pakonekone
+Status 200
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text 10:45 am CET  |  Friday, March 20, 2015  (0.5845 years from now) @pakonekone
+Status 200
+received sherpaBot  just be happy from jupegarnica cc @pakonekone
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text Are you happy with what you are right now? @pakonekone
+Status 200
+received sherpaBot excuse me to  from jupegarnica cc @helena_2501
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text Our redundant systems must have failed as well @helena_2501
+Status 200
+Sending strings to user: jupegarnica
+send twitt to jupegarnica with text You're insecure, don't know what for. @helena_2501
+Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 17:25:06 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
