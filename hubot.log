@@ -463,3 +463,7 @@ send twitt to jupegarnica with text You're insecure, don't know what for. @helen
 Status 200
 https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
 [Tue Aug 19 2014 17:25:06 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[Tue Aug 19 2014 23:56:58 GMT+0200 (CEST)] ERROR Cannot load adapter twitter-adapter - Error: Cannot find module 'hubot-twitter-adapter'
+[Wed Aug 20 2014 00:05:05 GMT+0200 (CEST)] ERROR Cannot load adapter twitter-adapter - Error: Cannot find module 'hubot-twitter-adapter'
+[Wed Aug 20 2014 00:06:05 GMT+0200 (CEST)] ERROR Cannot load adapter twitter-adapter - Error: Cannot find module 'hubot-twitter-adapter'
+[Wed Aug 20 2014 00:06:45 GMT+0200 (CEST)] ERROR Cannot load adapter twitter-adapter - Error: Cannot find module 'hubot-twitter-adapter'
