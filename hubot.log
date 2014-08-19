@@ -234,3 +234,176 @@ Status 403
 Sending strings to user: undefined
 send twitt to jupegarnica with text You have no idea what you're talking about.
 Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:01:17 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Tue Aug 19 2014 02:01:18 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[ReferenceError: cc is not defined]
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:07:07 GMT+0200 (CEST)] WARNING The HUBOT_AUTH_ADMIN environment variable is set not going to load roles.coffee, you should delete it
+[Tue Aug 19 2014 02:07:08 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[ReferenceError: cc is not defined]
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:09:19 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:15:18 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:15:34 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[ReferenceError: cc is not defined]
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:18:24 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received sherpaBot  excuse me please from jupegarnica cc @sherpaBot @pakonekone
+Sending strings to user: undefined
+send twitt to jupegarnica with text The client wanted it changed at the last minute @sherpaBot @pakonekone
+Status 200
+received  The client wanted it changed at the last minute sherpaBot  from sherpaBot cc @jupegarnica @sherpaBot @pakonekone
+Sending strings to user: undefined
+send twitt to jupegarnica with text Tadadaadada. @sherpaBot @pakonekone
+Status 200
+received  Tadadaadada. sherpaBot  from sherpaBot cc @jupegarnica @sherpaBot @pakonekone
+[SyntaxError: Unexpected token t]
+received  sherpaBot how do I repair me battery charger? from jupegarnica cc @pakonekone @sherpaBot
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:25:00 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received  sherpaBot how do I repair me battery charger? from jupegarnica cc @pakonekone
+[TypeError: Cannot call method 'join' of null]
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:30:08 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+[TypeError: Cannot read property 'length' of null]
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:34:53 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received sherpaBot bienvenido from jupegarnica cc null
+Sending strings to user: undefined
+send twitt to jupegarnica with text Bienvenido q. null
+Status 200
+https://stream.twitter.com/1.1/statuses/filter.json?track=sherpaBot, 2309221603-Yp9GapjNfGnT9z3naLvV2Az87TkviJrO3aDaflm, ZQ0vZV3xszWUVGRxmZT0ostnJFB4Fo906QLVZgtqSkEAB, null
+[Tue Aug 19 2014 02:41:56 GMT+0200 (CEST)] INFO Data for hubot brain retrieved from Redis
+received sherpaBot bienvenido from jupegarnica cc null
+Sending strings to user: undefined
+send twitt to jupegarnica with text What's that mean?
+Status 200
+received sherpaBot welcome from jupegarnica cc null
+Sending strings to user: undefined
+send twitt to jupegarnica with text Your name is Jordan.
+Status 200
+received sherpaBot  how do I make a call forwarding in asterisk? from jupegarnica cc @pakonekone
+Sending strings to user: undefined
+send twitt to jupegarnica with text http://stackoverflow.com/questions/69676/mysql-asterisk-dialplans-and-call-forwarding @pakonekone
+Sending strings to user: undefined
+send twitt to jupegarnica with text You don't make a cake, you bake a cake. @pakonekone
+Sending strings to user: undefined
+send twitt to jupegarnica with text #!/usr/bin/php @pakonekone
+send twitt to jupegarnica with text <?php @pakonekone
+send twitt to jupegarnica with text ini_set('display_errors','false'); //Supress errors getting sent to the Asterisk process @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text require('phpagi.php'); @pakonekone
+send twitt to jupegarnica with text $agi = new AGI(); @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text try { @pakonekone
+send twitt to jupegarnica with text     $pdo = new PDO('mysql:host='.$db_hostname.';dbname='.$db_database.';charset=UTF-8', $db_user, $db_pass); @pakonekone
+send twitt to jupegarnica with text } catch (PDOException $e) { @pakonekone
+send twitt to jupegarnica with text     $agi->conlog("FAIL: Error connecting to the database! " . $e->getMessage()); @pakonekone
+send twitt to jupegarnica with text     die(); @pakonekone
+send twitt to jupegarnica with text } @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text $find_fwd_by_callerid = $pdo->prepare('SELECT destination FROM fwd_table WHERE caller_id=? '); @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text $caller_id = $agi->request['agi_callerid']; @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text if($callerid=="unknown" or $callerid=="private" or $callerid==""){ @pakonekone
+send twitt to jupegarnica with text     $agi->conlog("Call came in without caller id, I give up"); @pakonekone
+send twitt to jupegarnica with text     exit; @pakonekone
+send twitt to jupegarnica with text }else{ @pakonekone
+send twitt to jupegarnica with text     $agi->conlog("Call came in with caller id number $caller_id."); @pakonekone
+send twitt to jupegarnica with text } @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text if($find_fwd_by_callerid->execute(array($caller_id)) === false){ @pakonekone
+send twitt to jupegarnica with text     $agi->conlog("Database problem searching for forward destination (find_fwd_by_callerid), croaking"); @pakonekone
+send twitt to jupegarnica with text     exit; @pakonekone
+send twitt to jupegarnica with text }  @pakonekone
+send twitt to jupegarnica with text $found_fwds = $find_fwd_by_callerid->fetchAll(); @pakonekone
+send twitt to jupegarnica with text if(count($found_fwds) > 0){ @pakonekone
+send twitt to jupegarnica with text     $destination = $found_contacts[0]['destination']; @pakonekone
+send twitt to jupegarnica with text     $agi->set_variable('FWD_TO', $destination); @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text     $agi->conlog("Caller ID matched, setting FWD_TO variable to ''"); @pakonekone
+send twitt to jupegarnica with text } @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+send twitt to jupegarnica with text ?> @pakonekone
+send twitt to jupegarnica with text AGI(forward_by_callerid.agi) @pakonekone
+send twitt to jupegarnica with text  @pakonekone
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+Status 200
+Status 200
+twitter send error: [object Object] {"errors":[{"code":187,"message":"Status is a duplicate."}]}
+Status 403
+received sherpaBot  How Do I Format my computer? from pakonekone cc @jupegarnica
+Sending strings to user: undefined
+send twitt to pakonekone with text http://stackoverflow.com/questions/10298200/strange-behaviour-in-google-map-after-format-my-computer @jupegarnica
+Sending strings to user: undefined
+send twitt to pakonekone with text  @jupegarnica
+send twitt to pakonekone with text you have to regenerate the MD5 Fingerprint in order to resolve this issue. as your debug.keystore is now different. @jupegarnica
+send twitt to pakonekone with text      @jupegarnica
+Status 200
+Status 200
+Status 200
+Status 200
+Sending strings to user: undefined
+send twitt to pakonekone with text Since you're a program running on a computer, I wouldn't recommend that. @jupegarnica
+Status 200
+received sherpaBot  well, you are a program running on a computer, not me. from pakonekone cc @jupegarnica
+Sending strings to user: undefined
+send twitt to pakonekone with text I am human. You are a program running on a computer. @jupegarnica
+Status 200
+received sherpaBot  What kind of human? from pakonekone cc @jupegarnica
+Sending strings to user: undefined
+send twitt to pakonekone with text Excuse me? @jupegarnica
+Status 200
+received sherpaBot  Sorry, it's true you are not a bot. from pakonekone cc @jupegarnica
+Sending strings to user: undefined
+send twitt to pakonekone with text I do. @jupegarnica
+Status 200
