@@ -1,6 +1,6 @@
 #!/bin/sh
 
-USER_HOME="/home/$USER"
+USER_HOME="/home/jupegarnica"
 HUBOT_ROOT="$USER_HOME/sherpabot"
 HUBOT_HOME="$HUBOT_ROOT"
 DAEMON="$HUBOT_HOME/bin/hubot"
